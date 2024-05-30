@@ -836,12 +836,12 @@ CMakeFiles/ContinuousSubmit.dir/clean:
 CMakeFiles/backtestingCpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles --progress-num=1,2,3,4 "Built target backtestingCpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target backtestingCpp"
 .PHONY : CMakeFiles/backtestingCpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/backtestingCpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/backtestingCpp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles 0
 .PHONY : CMakeFiles/backtestingCpp.dir/rule

@@ -10,13 +10,17 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/_mingw_off_t.h \
  C:/msys64/mingw64/include/swprintf.inl \
  C:/msys64/mingw64/include/sec_api/stdio_s.h \
- C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\Database.h \
- C:/msys64/mingw64/include/c++/14.1.0/string \
- C:/msys64/mingw64/include/c++/14.1.0/bits/requires_hosted.h \
+ C:/msys64/mingw64/include/c++/14.1.0/cstring \
+ C:/msys64/mingw64/include/c++/14.1.0/bits/version.h \
  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/os_defines.h \
  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
  C:/msys64/mingw64/include/c++/14.1.0/pstl/pstl_config.h \
+ C:/msys64/mingw64/include/string.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/msys64/mingw64/include/sec_api/string_s.h \
+ C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies/Psar.h \
+ C:/msys64/mingw64/include/c++/14.1.0/string \
+ C:/msys64/mingw64/include/c++/14.1.0/bits/requires_hosted.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/stringfwd.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/memoryfwd.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/char_traits.h \
@@ -27,7 +31,6 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/_mingw_stat64.h \
  C:/msys64/mingw64/include/sec_api/wchar_s.h \
  C:/msys64/mingw64/include/c++/14.1.0/type_traits \
- C:/msys64/mingw64/include/c++/14.1.0/bits/version.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/allocator.h \
  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/new_allocator.h \
@@ -40,7 +43,7 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/14.1.0/bits/localefwd.h \
  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/c++locale.h \
  C:/msys64/mingw64/include/c++/14.1.0/clocale \
- C:/msys64/mingw64/include/locale.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/msys64/mingw64/include/locale.h \
  C:/msys64/mingw64/include/c++/14.1.0/iosfwd \
  C:/msys64/mingw64/include/c++/14.1.0/cctype \
  C:/msys64/mingw64/include/ctype.h \
@@ -98,60 +101,6 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: \
  C:/msys64/mingw64/include/c++/14.1.0/bits/uses_allocator.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/uses_allocator_args.h \
  C:/msys64/mingw64/include/c++/14.1.0/tuple \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/hdf5.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5public.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5pubconf.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5version.h \
- C:/msys64/mingw64/include/sys/types.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stdarg.h \
- C:/msys64/mingw64/include/stdarg.h \
- C:/msys64/mingw64/include/_mingw_stdarg.h \
- C:/msys64/mingw64/include/inttypes.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stdint.h \
- C:/msys64/mingw64/include/stdint.h \
- C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stdbool.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5api_adpt.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Apublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Ipublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Opublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Lpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Tpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5ACpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Cpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Dpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Epublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Epubgen.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Fpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Gpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Mpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5MMpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Ppublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Spublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Zpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5PLpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5Rpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5VLpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5VLconnector.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5ESpublic.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5VLconnector_passthru.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5VLnative.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDcore.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDdirect.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDfamily.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDhdfs.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDlog.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDmirror.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDmpi.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDmpio.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDmulti.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDros3.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDsec2.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDsplitter.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDstdio.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5FDwindows.h \
- C:/PROGRA~1/HDF_GR~1/HDF5/112~1.3/include/H5VLpassthru.h \
- C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\Utils.h \
  C:/msys64/mingw64/include/c++/14.1.0/vector \
  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_uninitialized.h \
  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_vector.h \

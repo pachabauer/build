@@ -594,6 +594,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+strategies/Psar.obj: strategies/Psar.cpp.obj
+.PHONY : strategies/Psar.obj
+
+# target to build an object file
+strategies/Psar.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj
+.PHONY : strategies/Psar.cpp.obj
+
+strategies/Psar.i: strategies/Psar.cpp.i
+.PHONY : strategies/Psar.i
+
+# target to preprocess a source file
+strategies/Psar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.i
+.PHONY : strategies/Psar.cpp.i
+
+strategies/Psar.s: strategies/Psar.cpp.s
+.PHONY : strategies/Psar.s
+
+# target to generate assembly for a file
+strategies/Psar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.s
+.PHONY : strategies/Psar.cpp.s
+
+strategies/Sma.obj: strategies/Sma.cpp.obj
+.PHONY : strategies/Sma.obj
+
+# target to build an object file
+strategies/Sma.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj
+.PHONY : strategies/Sma.cpp.obj
+
+strategies/Sma.i: strategies/Sma.cpp.i
+.PHONY : strategies/Sma.i
+
+# target to preprocess a source file
+strategies/Sma.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.i
+.PHONY : strategies/Sma.cpp.i
+
+strategies/Sma.s: strategies/Sma.cpp.s
+.PHONY : strategies/Sma.s
+
+# target to generate assembly for a file
+strategies/Sma.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\backtestingCpp.dir\build.make CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.s
+.PHONY : strategies/Sma.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -643,6 +691,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... strategies/Psar.obj
+	@echo ... strategies/Psar.i
+	@echo ... strategies/Psar.s
+	@echo ... strategies/Sma.obj
+	@echo ... strategies/Sma.i
+	@echo ... strategies/Sma.s
 .PHONY : help
 
 

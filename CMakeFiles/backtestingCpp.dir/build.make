@@ -113,11 +113,43 @@ CMakeFiles/backtestingCpp.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/backtestingCpp.dir/Utils.cpp.s"
 	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\Utils.cpp -o CMakeFiles\backtestingCpp.dir\Utils.cpp.s
 
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj: CMakeFiles/backtestingCpp.dir/flags.make
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj: CMakeFiles/backtestingCpp.dir/includes_CXX.rsp
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj: C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.cpp
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj: CMakeFiles/backtestingCpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj -MF CMakeFiles\backtestingCpp.dir\strategies\Sma.cpp.obj.d -o CMakeFiles\backtestingCpp.dir\strategies\Sma.cpp.obj -c C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies\Sma.cpp
+
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies\Sma.cpp > CMakeFiles\backtestingCpp.dir\strategies\Sma.cpp.i
+
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies\Sma.cpp -o CMakeFiles\backtestingCpp.dir\strategies\Sma.cpp.s
+
+CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj: CMakeFiles/backtestingCpp.dir/flags.make
+CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj: CMakeFiles/backtestingCpp.dir/includes_CXX.rsp
+CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj: C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Psar.cpp
+CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj: CMakeFiles/backtestingCpp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj -MF CMakeFiles\backtestingCpp.dir\strategies\Psar.cpp.obj.d -o CMakeFiles\backtestingCpp.dir\strategies\Psar.cpp.obj -c C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies\Psar.cpp
+
+CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies\Psar.cpp > CMakeFiles\backtestingCpp.dir\strategies\Psar.cpp.i
+
+CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\strategies\Psar.cpp -o CMakeFiles\backtestingCpp.dir\strategies\Psar.cpp.s
+
 # Object files for target backtestingCpp
 backtestingCpp_OBJECTS = \
 "CMakeFiles/backtestingCpp.dir/main.cpp.obj" \
 "CMakeFiles/backtestingCpp.dir/Database.cpp.obj" \
-"CMakeFiles/backtestingCpp.dir/Utils.cpp.obj"
+"CMakeFiles/backtestingCpp.dir/Utils.cpp.obj" \
+"CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj" \
+"CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj"
 
 # External object files for target backtestingCpp
 backtestingCpp_EXTERNAL_OBJECTS =
@@ -125,12 +157,14 @@ backtestingCpp_EXTERNAL_OBJECTS =
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/main.cpp.obj
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/Database.cpp.obj
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/Utils.cpp.obj
+backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj
+backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/build.make
 backtestingCpp.exe: C:/Program\ Files/HDF_Group/HDF5/1.12.3/lib/hdf5.lib
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/linkLibs.rsp
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/objects1.rsp
 backtestingCpp.exe: CMakeFiles/backtestingCpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable backtestingCpp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\esteb\PycharmProjects\backtesting\backtestingCpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable backtestingCpp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\backtestingCpp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

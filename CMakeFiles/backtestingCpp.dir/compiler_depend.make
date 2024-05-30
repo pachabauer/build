@@ -293,57 +293,11 @@ CMakeFiles/backtestingCpp.dir/Utils.cpp.obj: C:/Users/esteb/PycharmProjects/back
   C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Utils.h
 
 CMakeFiles/backtestingCpp.dir/main.cpp.obj: C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/main.cpp \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5ACpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Apublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Cpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Dpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5ESpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Epubgen.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Epublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDcore.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDdirect.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDfamily.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDhdfs.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDlog.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmirror.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmpi.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmpio.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmulti.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDros3.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDsec2.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDsplitter.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDstdio.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDwindows.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Fpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Gpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Ipublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Lpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5MMpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Mpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Opublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5PLpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Ppublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Rpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Spublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Tpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLconnector.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLconnector_passthru.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLnative.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLpassthru.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Zpublic.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5api_adpt.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5pubconf.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5public.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5version.h \
-  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/hdf5.h \
   C:/msys64/mingw64/include/_mingw.h \
   C:/msys64/mingw64/include/_mingw_mac.h \
   C:/msys64/mingw64/include/_mingw_off_t.h \
   C:/msys64/mingw64/include/_mingw_secapi.h \
   C:/msys64/mingw64/include/_mingw_stat64.h \
-  C:/msys64/mingw64/include/_mingw_stdarg.h \
   C:/msys64/mingw64/include/c++/14.1.0/backward/binders.h \
   C:/msys64/mingw64/include/c++/14.1.0/bit \
   C:/msys64/mingw64/include/c++/14.1.0/bits/alloc_traits.h \
@@ -398,6 +352,7 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: C:/Users/esteb/PycharmProjects/backt
   C:/msys64/mingw64/include/c++/14.1.0/cstddef \
   C:/msys64/mingw64/include/c++/14.1.0/cstdio \
   C:/msys64/mingw64/include/c++/14.1.0/cstdlib \
+  C:/msys64/mingw64/include/c++/14.1.0/cstring \
   C:/msys64/mingw64/include/c++/14.1.0/cwchar \
   C:/msys64/mingw64/include/c++/14.1.0/debug/assertions.h \
   C:/msys64/mingw64/include/c++/14.1.0/debug/debug.h \
@@ -408,6 +363,167 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: C:/Users/esteb/PycharmProjects/backt
   C:/msys64/mingw64/include/c++/14.1.0/initializer_list \
   C:/msys64/mingw64/include/c++/14.1.0/iosfwd \
   C:/msys64/mingw64/include/c++/14.1.0/new \
+  C:/msys64/mingw64/include/c++/14.1.0/pstl/pstl_config.h \
+  C:/msys64/mingw64/include/c++/14.1.0/stdlib.h \
+  C:/msys64/mingw64/include/c++/14.1.0/string \
+  C:/msys64/mingw64/include/c++/14.1.0/string_view \
+  C:/msys64/mingw64/include/c++/14.1.0/tuple \
+  C:/msys64/mingw64/include/c++/14.1.0/type_traits \
+  C:/msys64/mingw64/include/c++/14.1.0/vector \
+  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/c++allocator.h \
+  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/c++config.h \
+  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/c++locale.h \
+  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/msys64/mingw64/include/c++/14.1.0/x86_64-w64-mingw32/bits/os_defines.h \
+  C:/msys64/mingw64/include/corecrt.h \
+  C:/msys64/mingw64/include/corecrt_stdio_config.h \
+  C:/msys64/mingw64/include/corecrt_wstdlib.h \
+  C:/msys64/mingw64/include/crtdefs.h \
+  C:/msys64/mingw64/include/ctype.h \
+  C:/msys64/mingw64/include/errno.h \
+  C:/msys64/mingw64/include/limits.h \
+  C:/msys64/mingw64/include/locale.h \
+  C:/msys64/mingw64/include/malloc.h \
+  C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+  C:/msys64/mingw64/include/sec_api/stdio_s.h \
+  C:/msys64/mingw64/include/sec_api/stdlib_s.h \
+  C:/msys64/mingw64/include/sec_api/string_s.h \
+  C:/msys64/mingw64/include/sec_api/wchar_s.h \
+  C:/msys64/mingw64/include/stddef.h \
+  C:/msys64/mingw64/include/stdio.h \
+  C:/msys64/mingw64/include/stdlib.h \
+  C:/msys64/mingw64/include/string.h \
+  C:/msys64/mingw64/include/swprintf.inl \
+  C:/msys64/mingw64/include/vadefs.h \
+  C:/msys64/mingw64/include/wchar.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/limits.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/mm_malloc.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stddef.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/syslimits.h \
+  C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.h
+
+CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj: C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.cpp \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5ACpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Apublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Cpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Dpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5ESpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Epubgen.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Epublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDcore.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDdirect.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDfamily.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDhdfs.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDlog.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmirror.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmpi.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmpio.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDmulti.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDros3.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDsec2.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDsplitter.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDstdio.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDwindows.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Fpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Gpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Ipublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Lpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5MMpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Mpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Opublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5PLpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Ppublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Rpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Spublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Tpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLconnector.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLconnector_passthru.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLnative.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLpassthru.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Zpublic.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5api_adpt.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5pubconf.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5public.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5version.h \
+  C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/hdf5.h \
+  C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Database.h \
+  C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Utils.h \
+  C:/msys64/mingw64/include/_mingw.h \
+  C:/msys64/mingw64/include/_mingw_mac.h \
+  C:/msys64/mingw64/include/_mingw_off_t.h \
+  C:/msys64/mingw64/include/_mingw_secapi.h \
+  C:/msys64/mingw64/include/_mingw_stat64.h \
+  C:/msys64/mingw64/include/_mingw_stdarg.h \
+  C:/msys64/mingw64/include/c++/14.1.0/backward/binders.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bit \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/alloc_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/allocator.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/basic_string.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/basic_string.tcc \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/char_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/charconv.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/concept_check.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/cpp_type_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/cxxabi_forced.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/exception.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/exception_defines.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/functexcept.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/functional_hash.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/hash_bytes.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/invoke.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/localefwd.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/memory_resource.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/memoryfwd.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/move.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/new_allocator.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/ostream_insert.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/postypes.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/predefined_ops.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/ptr_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/range_access.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/refwrap.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/requires_hosted.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/std_abs.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_algobase.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_bvector.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_construct.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_function.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_iterator.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_iterator_base_funcs.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_iterator_base_types.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_numeric.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_pair.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_uninitialized.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stl_vector.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/string_view.tcc \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/stringfwd.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/uses_allocator.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/uses_allocator_args.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/utility.h \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/vector.tcc \
+  C:/msys64/mingw64/include/c++/14.1.0/bits/version.h \
+  C:/msys64/mingw64/include/c++/14.1.0/cctype \
+  C:/msys64/mingw64/include/c++/14.1.0/cerrno \
+  C:/msys64/mingw64/include/c++/14.1.0/clocale \
+  C:/msys64/mingw64/include/c++/14.1.0/concepts \
+  C:/msys64/mingw64/include/c++/14.1.0/cstddef \
+  C:/msys64/mingw64/include/c++/14.1.0/cstdio \
+  C:/msys64/mingw64/include/c++/14.1.0/cstdlib \
+  C:/msys64/mingw64/include/c++/14.1.0/cwchar \
+  C:/msys64/mingw64/include/c++/14.1.0/debug/assertions.h \
+  C:/msys64/mingw64/include/c++/14.1.0/debug/debug.h \
+  C:/msys64/mingw64/include/c++/14.1.0/ext/alloc_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/ext/numeric_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/ext/string_conversions.h \
+  C:/msys64/mingw64/include/c++/14.1.0/ext/type_traits.h \
+  C:/msys64/mingw64/include/c++/14.1.0/initializer_list \
+  C:/msys64/mingw64/include/c++/14.1.0/iosfwd \
+  C:/msys64/mingw64/include/c++/14.1.0/new \
+  C:/msys64/mingw64/include/c++/14.1.0/numeric \
+  C:/msys64/mingw64/include/c++/14.1.0/pstl/execution_defs.h \
+  C:/msys64/mingw64/include/c++/14.1.0/pstl/glue_numeric_defs.h \
   C:/msys64/mingw64/include/c++/14.1.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/14.1.0/stdlib.h \
   C:/msys64/mingw64/include/c++/14.1.0/string \
@@ -450,8 +566,7 @@ CMakeFiles/backtestingCpp.dir/main.cpp.obj: C:/Users/esteb/PycharmProjects/backt
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stddef.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/stdint.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include/syslimits.h \
-  C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Database.h \
-  C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Utils.h
+  C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.h
 
 
 C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Apublic.h:
@@ -475,6 +590,8 @@ C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Dpublic.h:
 C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5Epublic.h:
 
 C:/msys64/mingw64/include/c++/14.1.0/bits/cpp_type_traits.h:
+
+C:/msys64/mingw64/include/c++/14.1.0/bits/stl_numeric.h:
 
 C:/msys64/mingw64/include/wchar.h:
 
@@ -529,6 +646,8 @@ C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5VLnative.h:
 C:/msys64/mingw64/include/c++/14.1.0/new:
 
 C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDsplitter.h:
+
+C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.h:
 
 C:/Program\ Files/HDF_Group/HDF5/1.12.3/include/H5FDstdio.h:
 
@@ -788,6 +907,8 @@ C:/msys64/mingw64/include/stdint.h:
 
 C:/msys64/mingw64/include/stdio.h:
 
+C:/msys64/mingw64/include/c++/14.1.0/pstl/execution_defs.h:
+
 C:/msys64/mingw64/include/stdlib.h:
 
 C:/msys64/mingw64/include/sys/timeb.h:
@@ -833,3 +954,15 @@ C:/msys64/mingw64/include/c++/14.1.0/vector:
 C:/msys64/mingw64/include/math.h:
 
 C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/main.cpp:
+
+C:/msys64/mingw64/include/c++/14.1.0/cstring:
+
+C:/msys64/mingw64/include/sec_api/string_s.h:
+
+C:/msys64/mingw64/include/string.h:
+
+C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.cpp:
+
+C:/msys64/mingw64/include/c++/14.1.0/numeric:
+
+C:/msys64/mingw64/include/c++/14.1.0/pstl/glue_numeric_defs.h:

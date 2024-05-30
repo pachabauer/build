@@ -11,6 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Database.cpp" "CMakeFiles/backtestingCpp.dir/Database.cpp.obj" "gcc" "CMakeFiles/backtestingCpp.dir/Database.cpp.obj.d"
   "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Utils.cpp" "CMakeFiles/backtestingCpp.dir/Utils.cpp.obj" "gcc" "CMakeFiles/backtestingCpp.dir/Utils.cpp.obj.d"
   "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/main.cpp" "CMakeFiles/backtestingCpp.dir/main.cpp.obj" "gcc" "CMakeFiles/backtestingCpp.dir/main.cpp.obj.d"
+  "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Psar.cpp" "CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj" "gcc" "CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj.d"
+  "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.cpp" "CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj" "gcc" "CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
