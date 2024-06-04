@@ -1,31 +1,31 @@
 [
 {
   "directory": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\main.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\main.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\main.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\main.cpp",
   "file": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/main.cpp",
   "output": "CMakeFiles/backtestingCpp.dir/main.cpp.obj"
 },
 {
   "directory": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\Database.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\Database.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\Database.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\Database.cpp",
   "file": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Database.cpp",
   "output": "CMakeFiles/backtestingCpp.dir/Database.cpp.obj"
 },
 {
   "directory": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\Utils.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\Utils.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\Utils.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\Utils.cpp",
   "file": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/Utils.cpp",
   "output": "CMakeFiles/backtestingCpp.dir/Utils.cpp.obj"
 },
 {
   "directory": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\strategies\\Sma.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\strategies\\Sma.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\strategies\\Sma.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\strategies\\Sma.cpp",
   "file": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Sma.cpp",
   "output": "CMakeFiles/backtestingCpp.dir/strategies/Sma.cpp.obj"
 },
 {
   "directory": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\strategies\\Psar.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\strategies\\Psar.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DH5_BUILT_AS_DYNAMIC_LIB -DbacktestingCpp_EXPORTS @CMakeFiles/backtestingCpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\backtestingCpp.dir\\strategies\\Psar.cpp.obj -c C:\\Users\\esteb\\PycharmProjects\\backtesting\\backtestingCpp\\strategies\\Psar.cpp",
   "file": "C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp/strategies/Psar.cpp",
   "output": "CMakeFiles/backtestingCpp.dir/strategies/Psar.cpp.obj"
 }

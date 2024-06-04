@@ -326,6 +326,9 @@ backtestingCpp_BINARY_DIR:STATIC=C:/Users/esteb/PycharmProjects/backtesting/back
 //Value Computed by CMake
 backtestingCpp_IS_TOP_LEVEL:STATIC=ON
 
+//Dependencies for the target
+backtestingCpp_LIB_DEPENDS:STATIC=general;hdf5::hdf5-shared;general;hdf5::hdf5-shared;
+
 //Value Computed by CMake
 backtestingCpp_SOURCE_DIR:STATIC=C:/Users/esteb/PycharmProjects/backtesting/backtestingCpp
 
